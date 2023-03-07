@@ -35,6 +35,7 @@ struct UberMapViewRepresentable:UIViewRepresentable {
             break
         case .locationSelected:
             if let coordinate = locationViewModel.selectedLocationCoordinate {
+                print("DEBUG: Coordinate is \(coordinate)")
                 context.coordinator.addAndSelectAnnotation(withCoordinate: coordinate)
                 context.coordinator.configurePolyline(withDestinationCoordinate: coordinate)
             }
