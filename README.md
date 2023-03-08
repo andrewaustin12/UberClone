@@ -8,3 +8,4 @@ Uber Clone built with SwiftUI, iOS 16 &amp; Xcode 14
 
   * Swift UI
   * MapKit
+  * CoreLocation
