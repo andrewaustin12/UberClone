@@ -3,7 +3,11 @@ Uber Clone built with SwiftUI, iOS 16 & Xcode 14. This was built with a MVVM arc
 
 ### Current capabilities include: 
 
-  * Ability to dynamicaly calculate cost of trip
+  * Interactive map view
+  * Requesting trips
+    * Location search auto completion 
+    * Different ride types with custom pricing model (UberX, UberXL, UberBlack) 
+    * Ability to dynamicaly calculate cost of trip
   * Resets the mapview when searching diffrent desinations
   * Light and Dark mode support
   * And more!
