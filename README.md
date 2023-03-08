@@ -1,5 +1,5 @@
 # UberClone
-Uber Clone built with SwiftUI, iOS 16 & Xcode 14. This was built with a MVVM architecture. 
+Uber Clone built with SwiftUI, iOS 16 & Xcode 14. This was organized by features instead of MVVM architecture. 
 
 ### Current capabilities include: 
 
